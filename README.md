@@ -28,6 +28,30 @@
 
 ---
 
+## `> TECH.STACK`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css,sass&theme=dark"/>
+
+### `FRAMEWORKS`
+
+<img src="https://skillicons.dev/icons?i=laravel,spring,react,nodejs,flask&theme=dark"/>
+
+### `DATABASES`
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
+
+### `TOOLS & ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux&theme=dark"/>
+
+</div>
+
+---
+
 ## `> SYSTEM.IDENTITY`
 
 ```text
@@ -66,24 +90,6 @@ Ao longo dessa jornada, participei do desenvolvimento de sistemas para:
 
 Gosto de entender primeiro **o problema real** e então encontrar a solução mais simples, eficiente e escalável.
 
-```bash
-$ whoami
-
-Victor Asfur
-
-$ mission
-
-Automatizar processos.
-Simplificar sistemas.
-Resolver problemas.
-Construir o futuro.
-
-$ philosophy
-
-"Se pode ser automatizado,
-não deveria continuar sendo feito manualmente."
-```
-
 ---
 
 ## `> CORE.CAPABILITIES`
@@ -95,30 +101,6 @@ não deveria continuar sendo feito manualmente."
 |   Automação de processos   | Pensamento analítico |  Sistemas internos  |
 |    Otimização de tarefas   |   Soluções simples   |    APIs & Backend   |
 | Redução de trabalho manual | Análise de processos | Interfaces modernas |
-
-</div>
-
----
-
-## `> TECH.STACK`
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css,sass&theme=dark"/>
-
-### `FRAMEWORKS`
-
-<img src="https://skillicons.dev/icons?i=laravel,spring,react,nodejs,flask&theme=dark"/>
-
-### `DATABASES`
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
-
-### `TOOLS & ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux&theme=dark"/>
 
 </div>
 
@@ -292,36 +274,6 @@ WORKFLOW
 </picture>
 
 </div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=victorasfur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-## `> SYSTEM.METRICS`
-
-```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│                     VICTOR.OS METRICS                       │
-│                                                             │
-│       CODE        ████████████████████░░  90%               │
-│       AUTOMATION  █████████████████████░  95%               │
-│       CREATIVITY  ███████████████████░░░  88%               │
-│       LEARNING    ██████████████████████ 100%               │
-│       PROBLEM     █████████████████████░  94%               │
-│                                                             │
-│                     SYSTEM ONLINE                           │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
 
 ---
 
