@@ -198,59 +198,6 @@ WORKFLOW
 
 ---
 
-## `> CURRENT.MISSION`
-
-```bash
-┌──[VICTOR@SYSTEM]──[~/mission]
-└─$ cat objectives.txt
-
-[■■■■■■■■■■■■■■■■■■■■] 100%  → Finalizar Engenharia de Software
-[■■■■■■■■■■■■■■■■■□□□]  85%  → Evoluir como Software Engineer
-[■■■■■■■■■■■■■■□□□□□□]  70%  → Aprofundar Backend & Architecture
-[■■■■■■■■■■■■□□□□□□□]  60%  → Explorar Inteligência Artificial
-[■■■■■■■■■■□□□□□□□□□□]  50%  → Construir produtos próprios
-[■■■■■■■■□□□□□□□□□□□□]  40%  → Expandir automações inteligentes
-
-┌──────────────────────────────────────────────────────────────┐
-│ NEXT TARGET                                                  │
-│                                                              │
-│ Build systems that don't just work.                          │
-│ Build systems that think, adapt and scale.                   │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> GITHUB.ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorasfur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorasfur&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=victorasfur&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION.ACTIVITY`
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=victorasfur&bg_color=050816&color=00E5FF&line=00067D&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
 ## `> CONTRIBUTION.PROTOCOL`
 
 ```text
@@ -310,7 +257,8 @@ WORKFLOW
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00E5FF,50:00067D,100:050816&section=footer"/>
 
 <sub>
-⚡ Designed & Engineered by <b>Victor Asfur</b>
+
+  Designed & Engineered by <b>Victor Asfur</b>
 </sub>
 
 <br>
